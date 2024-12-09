@@ -3,7 +3,6 @@ Teapot 3D shop, product demo
 
 A simple 3D product personalization
 
-> Demo: <http://lutangar.github.io/teapot-shop/>
 
 Installation
 ============
